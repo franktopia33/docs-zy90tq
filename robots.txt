@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-juln5k.shadowdiary.com/sitemap.xml
